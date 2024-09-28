@@ -1,6 +1,7 @@
 
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 class Product {
@@ -65,11 +66,11 @@ class ProductProcessor {
     public static void main(String[] args) {
         // 제품 리스트 생성
 
-        List<Product> productList = List.of(
+        ArrayList<Product> productList = new ArrayList<>( Arrays.asList(
                 new Product("Laptop", 1000.0, 5),
                 new Product("Smartphone", 800.0, 10),
                 new Product("Tablet", 600.0, 7)
-        );
+        ));
 
         // 제품 처리기 생성 및 처리
         ProductProcessor processor = new ProductProcessor(productList);
