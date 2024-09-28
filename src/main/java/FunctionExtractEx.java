@@ -20,4 +20,31 @@ public class FunctionExtractEx {
         System.out.println("총액: " + totalAmount);
     }
 
+    private class Invoice {
+        public String getDate() {
+            return null;
+        }
+
+        public Product getCustomer() {
+            return null;
+        }
+
+        public Item[] getItems() {
+            return new Item[0];
+        }
+    }
+
+    private class Item {
+        public double getPrice() {
+            return 0;
+        }
+
+        public double getQuantity() {
+            return 0;
+        }
+
+        public boolean getName() {
+            return false;
+        }
+    }
 }
