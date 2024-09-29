@@ -1,4 +1,4 @@
-
+package 반복문쪼개기;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -52,13 +52,13 @@ class ProductProcessor {
             }
 
             // 재고 상태 출력 (기능 3)
-            System.out.println("Product: " + product.getName() + ", Stock: " + product.getStock());
+            System.out.println("반복문쪼개기.Product: " + product.getName() + ", Stock: " + product.getStock());
         }
 
         // 최종 처리 결과 출력
         System.out.println("Total Cost: " + totalCost);
         if (mostExpensiveProduct != null) {
-            System.out.println("Most Expensive Product: " + mostExpensiveProduct.getName());
+            System.out.println("Most Expensive 반복문쪼개기.Product: " + mostExpensiveProduct.getName());
         }
     }
 

@@ -1,3 +1,5 @@
+package 함수매개변수화;
+
 public class FunctionParameterizedEx {
 }
 

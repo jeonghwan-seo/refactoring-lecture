@@ -1,3 +1,5 @@
+package 변수쪼개기;
+
 public class SplitVariableEx {
     public static void main(String[] args) {
         double temp = 24.0; // 섭씨 온도

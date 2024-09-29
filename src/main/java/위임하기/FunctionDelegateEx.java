@@ -1,3 +1,5 @@
+package 위임하기;
+
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;

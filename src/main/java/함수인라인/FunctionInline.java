@@ -1,3 +1,5 @@
+package 함수인라인;
+
 public class FunctionInline {
     boolean isSame(int a, int b) {
         return a == b;

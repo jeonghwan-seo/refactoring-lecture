@@ -1,3 +1,6 @@
+package 함수추출;
+
+
 
 public class FunctionExtractEx {
 
@@ -45,6 +48,16 @@ public class FunctionExtractEx {
 
         public boolean getName() {
             return false;
+        }
+    }
+
+    class Product {
+        public String name;
+        public double price;
+        public int quantity;
+
+        public String getName() {
+            return null;
         }
     }
 }
