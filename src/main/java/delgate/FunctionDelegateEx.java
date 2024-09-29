@@ -1,4 +1,4 @@
-package 위임하기;
+package delgate;
 
 import org.junit.Test;
 

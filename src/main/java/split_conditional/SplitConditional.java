@@ -1,4 +1,4 @@
-package 조건문분해;
+package split_conditional;
 
 public class SplitConditional {
     class Employee {

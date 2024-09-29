@@ -1,4 +1,4 @@
-package 함수추출;
+package extract_function;
 
 
 

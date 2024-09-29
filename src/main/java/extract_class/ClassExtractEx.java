@@ -1,4 +1,4 @@
-package 클래스추출하기;
+package extract_class;
 
 public class ClassExtractEx {
 }

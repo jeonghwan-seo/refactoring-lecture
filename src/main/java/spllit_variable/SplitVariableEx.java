@@ -1,4 +1,4 @@
-package 변수쪼개기;
+package spllit_variable;
 
 public class SplitVariableEx {
     public static void main(String[] args) {

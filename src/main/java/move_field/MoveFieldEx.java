@@ -1,4 +1,4 @@
-package 필드옮기기;
+package move_field;
 
 import java.util.Random;
 

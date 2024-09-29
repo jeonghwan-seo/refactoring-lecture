@@ -1,4 +1,4 @@
-package 필드캡슐화하기;
+package field_encapsulation;
 
 public class FieldEncapsulation {
 
