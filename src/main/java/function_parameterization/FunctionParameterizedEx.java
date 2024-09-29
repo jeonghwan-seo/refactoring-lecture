@@ -1,4 +1,4 @@
-package 함수매개변수화;
+package function_parameterization;
 
 public class FunctionParameterizedEx {
 }

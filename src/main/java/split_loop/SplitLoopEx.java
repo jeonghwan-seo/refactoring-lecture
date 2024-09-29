@@ -1,4 +1,4 @@
-package 반복문쪼개기;
+package split_loop;
 
 import java.util.ArrayList;
 import java.util.Arrays;

@@ -1,4 +1,4 @@
-package 리팩토링예제;
+package refactoring_example;
 
 import org.junit.Test;
 import org.junit.Assert;

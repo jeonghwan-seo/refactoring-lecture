@@ -1,4 +1,4 @@
-package 함수인라인;
+package inline_function;
 
 public class FunctionInline {
     boolean isSame(int a, int b) {
