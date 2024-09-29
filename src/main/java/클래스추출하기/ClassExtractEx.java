@@ -1,3 +1,5 @@
+package 클래스추출하기;
+
 public class ClassExtractEx {
 }
 
