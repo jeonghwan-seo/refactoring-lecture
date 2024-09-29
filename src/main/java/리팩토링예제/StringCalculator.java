@@ -1,3 +1,5 @@
+package 리팩토링예제;
+
 import org.junit.Test;
 import org.junit.Assert;
 public class StringCalculator {

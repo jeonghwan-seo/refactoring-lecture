@@ -1,3 +1,5 @@
+package 필드옮기기;
+
 import java.util.Random;
 
 class Player {
